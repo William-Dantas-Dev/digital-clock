@@ -1,0 +1,17 @@
+@media (max-width: 700px){
+    .container{
+        width: 95vw;
+    }
+}
+
+
+@media (max-width: 500px){
+    .container{
+        height: 130px;
+    }
+
+    .clock span{
+        font-size: 100px;
+        width: 110px;
+    }
+}
